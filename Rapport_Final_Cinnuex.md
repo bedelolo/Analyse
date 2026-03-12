@@ -1,7 +1,7 @@
-# 📊 Rapport d'Analyse : Étude de Marché des Emballages Alimentaires Jetables
+#  Rapport d'Analyse : Étude de Marché des Emballages Alimentaires Jetables
 
 **Date:** 12 Mars 2026  
-**Client:** Cinnuex  
+**Auteur:** Bedel OLOUKPONA  
 **Sujet:** Analyse des besoins, préférences et attentes des professionnels de la restauration concernant les emballages jetables.
 
 ---
