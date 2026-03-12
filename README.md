@@ -1,4 +1,4 @@
-# 📊 Étude de Marché : Emballages Alimentaires Jetables (Bénin)
+#  Étude de Marché : Emballages Alimentaires Jetables (Bénin)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
@@ -20,7 +20,7 @@ Ce repo contient le traitement scientifique complet des données brutes, répond
 
 ---
 
-## 🏗️ Structure du Projet (Repository)
+##  Structure du Projet (Repository)
 
 ```bash
 📦 Analyse-Emballages-Jetables
@@ -45,7 +45,7 @@ Ce script utilise majoritairement la stack Data Science & Visualisation de base 
 
 ---
 
-## 🚀 Comment lancer le projet en local ?
+##  Comment lancer le projet en local ?
 
 ### 1. Prérequis
 Assurez-vous d'avoir Python 3.8+ installé, ainsi que `pip`.
@@ -75,4 +75,4 @@ jupyter notebook Analyse_Spatiale_Et_Comportementale_Emballages.ipynb
 
 ---
 
-*Mission Data Analyse réalisée par Antigravity.*
+
